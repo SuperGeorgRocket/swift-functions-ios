@@ -23,3 +23,5 @@
 ![render](http://i.imgur.com/vCIhFbZ.png)
 
 <a href='https://learn.co/lessons/FunctionLab' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+Feel free to DM me
